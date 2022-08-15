@@ -3,10 +3,10 @@ module golang.org/x/oauth2
 go 1.17
 
 require (
-	cloud.google.com/go/compute v1.7.0
+	cloud.google.com/go/compute v1.8.0
 	github.com/google/go-cmp v0.5.8
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
-	google.golang.org/appengine v1.6.7
+	golang.org/x/net v0.0.0-20220708220712-1185a9018129
+	google.golang.org/appengine/v2 v2.0.2
 )
 
 require (
